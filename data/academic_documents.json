@@ -1,0 +1,252 @@
+[
+  {
+    "doc_id": "D001",
+    "title": "Boolean Retrieval for Academic Search",
+    "abstract": "This study presents Boolean retrieval for academic search. An inverted index stores terms and document postings, allowing AND, OR, and NOT queries over research abstracts."
+  },
+  {
+    "doc_id": "D002",
+    "title": "Efficient Inverted Index Construction",
+    "abstract": "The paper examines inverted index construction for large text collections. Tokenization, sorted postings, and merge algorithms reduce query processing cost in information retrieval."
+  },
+  {
+    "doc_id": "D003",
+    "title": "Ranked Retrieval with TF IDF",
+    "abstract": "A ranked information retrieval model uses term frequency and inverse document frequency to score documents. The approach compares lexical relevance across academic search results."
+  },
+  {
+    "doc_id": "D004",
+    "title": "Web Search and Link Analysis",
+    "abstract": "Web search combines text retrieval with link analysis. Crawlers collect web documents, an index supports keyword queries, and ranking methods order relevant pages."
+  },
+  {
+    "doc_id": "D005",
+    "title": "Evaluating Search with Precision and Recall",
+    "abstract": "This work evaluates information retrieval systems using precision, recall, and F measure. Manually judged relevant documents provide a reference for measuring retrieval quality."
+  },
+  {
+    "doc_id": "D006",
+    "title": "Natural Language Processing for Search",
+    "abstract": "Natural language processing improves search by normalizing text, removing stopwords, tokenizing terms, and applying stemming before index construction."
+  },
+  {
+    "doc_id": "D007",
+    "title": "Query Expansion for Academic Retrieval",
+    "abstract": "Query expansion adds related terms to an information retrieval query. Synonyms and domain vocabulary can improve recall while preserving useful precision."
+  },
+  {
+    "doc_id": "D008",
+    "title": "Semantic Search Using Word Embeddings",
+    "abstract": "Semantic search represents words and documents with embeddings. Similarity between vector representations helps retrieve conceptually related academic documents."
+  },
+  {
+    "doc_id": "D009",
+    "title": "Passage Retrieval in Question Answering",
+    "abstract": "Passage retrieval identifies text segments that answer natural language questions. Candidate passages are indexed and ranked before a question answering model reads them."
+  },
+  {
+    "doc_id": "D010",
+    "title": "Distributed Search Indexes",
+    "abstract": "Distributed information retrieval partitions an index across servers. Sharding, replication, and merge operations support scalable search over large document collections."
+  },
+  {
+    "doc_id": "D011",
+    "title": "Supervised Machine Learning Fundamentals",
+    "abstract": "Supervised machine learning trains a model from labeled examples. Classification and regression algorithms learn patterns that predict labels or numeric outcomes."
+  },
+  {
+    "doc_id": "D012",
+    "title": "Neural Networks for Image Classification",
+    "abstract": "A neural network learns image features through layers and backpropagation. Convolutional models classify images and are evaluated with accuracy and confusion matrices."
+  },
+  {
+    "doc_id": "D013",
+    "title": "Deep Learning for Text Classification",
+    "abstract": "Deep learning models classify text using neural representations. Recurrent networks and transformers learn contextual features from labeled text collections."
+  },
+  {
+    "doc_id": "D014",
+    "title": "Unsupervised Clustering of Documents",
+    "abstract": "Document clustering groups unlabeled text by similarity. Vector representations and clustering algorithms reveal themes in research collections without class labels."
+  },
+  {
+    "doc_id": "D015",
+    "title": "Model Evaluation and Cross Validation",
+    "abstract": "Machine learning evaluation uses training and test data, cross validation, precision, recall, and F1 score to estimate generalization performance."
+  },
+  {
+    "doc_id": "D016",
+    "title": "Feature Selection for Learning Systems",
+    "abstract": "Feature selection removes irrelevant variables before model training. Selecting informative features can reduce overfitting and improve classification efficiency."
+  },
+  {
+    "doc_id": "D017",
+    "title": "Random Forest Prediction",
+    "abstract": "Random forest combines decision trees trained on sampled data. Ensemble voting improves robustness for classification tasks in applied machine learning."
+  },
+  {
+    "doc_id": "D018",
+    "title": "Support Vector Machines for Text",
+    "abstract": "Support vector machines classify high-dimensional text features. A separating hyperplane and margin optimization are useful for document categorization."
+  },
+  {
+    "doc_id": "D019",
+    "title": "Reinforcement Learning for Robotics",
+    "abstract": "Reinforcement learning trains an agent through rewards and actions. Policy learning helps a robot adapt its behavior in a changing environment."
+  },
+  {
+    "doc_id": "D020",
+    "title": "Explainable Artificial Intelligence",
+    "abstract": "Explainable artificial intelligence (AI) provides interpretable reasons for model predictions. Feature importance and local explanations support trustworthy machine learning."
+  },
+  {
+    "doc_id": "D021",
+    "title": "Network Intrusion Detection",
+    "abstract": "Network intrusion detection monitors traffic for malicious activity. A detection system uses packet features, signatures, and anomaly analysis to identify attacks."
+  },
+  {
+    "doc_id": "D022",
+    "title": "Cyber Security Risk Assessment",
+    "abstract": "Cyber security risk assessment identifies threats, vulnerabilities, and potential impact. Security controls and risk treatment plans reduce organizational exposure."
+  },
+  {
+    "doc_id": "D023",
+    "title": "Cryptography and Secure Communication",
+    "abstract": "Cryptography protects data confidentiality and integrity. Encryption, hashing, and digital signatures secure communication across untrusted networks."
+  },
+  {
+    "doc_id": "D024",
+    "title": "Malware Analysis and Detection",
+    "abstract": "Malware analysis studies malicious software behavior. Static signatures and dynamic execution traces help cyber security analysts detect malware."
+  },
+  {
+    "doc_id": "D025",
+    "title": "Firewall Policy Management",
+    "abstract": "A network firewall filters traffic using access control rules. Policy review, logging, and rule ordering help prevent unauthorized connections."
+  },
+  {
+    "doc_id": "D026",
+    "title": "Phishing Detection with Machine Learning",
+    "abstract": "Phishing detection applies artificial intelligence (AI) and machine learning to email text, URLs, and sender features. Classification models identify suspicious messages and reduce cyber security risk."
+  },
+  {
+    "doc_id": "D027",
+    "title": "Security Information and Event Management",
+    "abstract": "Security information and event management aggregates logs from endpoints and networks. Correlation rules help analysts investigate incidents and detect threats."
+  },
+  {
+    "doc_id": "D028",
+    "title": "Intrusion Prevention in Cloud Networks",
+    "abstract": "Cloud intrusion prevention combines network monitoring, access policies, and automated response to block suspicious traffic in virtual environments."
+  },
+  {
+    "doc_id": "D029",
+    "title": "Digital Forensics and Incident Response",
+    "abstract": "Digital forensics preserves evidence from devices and network logs. Incident response teams investigate attacks, reconstruct events, and document findings."
+  },
+  {
+    "doc_id": "D030",
+    "title": "Authentication and Access Control",
+    "abstract": "Authentication verifies user identity while access control determines permitted actions. Multi-factor authentication and least privilege protect information systems."
+  },
+  {
+    "doc_id": "D031",
+    "title": "Relational Database Normalization",
+    "abstract": "Relational database normalization organizes tables to reduce redundancy. Functional dependencies guide decomposition into first, second, and third normal forms."
+  },
+  {
+    "doc_id": "D032",
+    "title": "SQL Query Optimization",
+    "abstract": "Database query optimization selects efficient execution plans. Index selection, join ordering, and cost estimation improve SQL query performance."
+  },
+  {
+    "doc_id": "D033",
+    "title": "NoSQL Databases for Big Data",
+    "abstract": "NoSQL databases support flexible schemas and distributed storage. Key-value, document, column-family, and graph models serve different data workloads. Some distributed data platforms integrate blockchain records."
+  },
+  {
+    "doc_id": "D034",
+    "title": "Database Transactions and ACID",
+    "abstract": "Database transactions follow atomicity, consistency, isolation, and durability. Concurrency control and recovery preserve reliable data updates."
+  },
+  {
+    "doc_id": "D035",
+    "title": "Graph Databases and Relationship Search",
+    "abstract": "Graph databases represent entities and relationships as nodes and edges. Traversal queries retrieve connected data for recommendation and knowledge discovery. Graph structures can also model blockchain transaction relationships."
+  },
+  {
+    "doc_id": "D036",
+    "title": "Data Warehousing and OLAP",
+    "abstract": "A data warehouse integrates historical data for analysis. Online analytical processing supports multidimensional queries and business intelligence reporting."
+  },
+  {
+    "doc_id": "D037",
+    "title": "Database Indexing Structures",
+    "abstract": "Database indexes use B-trees and hash structures to accelerate record lookup. Index maintenance affects storage use and query performance."
+  },
+  {
+    "doc_id": "D038",
+    "title": "Distributed Database Replication",
+    "abstract": "Distributed databases replicate data across nodes for availability. Consistency protocols and conflict handling coordinate concurrent updates. Blockchain systems also use replicated ledgers across participating nodes."
+  },
+  {
+    "doc_id": "D039",
+    "title": "Privacy Preserving Data Management",
+    "abstract": "Privacy preserving databases limit disclosure through access policies, anonymization, and encryption. Secure data management balances utility and confidentiality."
+  },
+  {
+    "doc_id": "D040",
+    "title": "Stream Processing for Real Time Data",
+    "abstract": "Stream processing systems analyze continuous events. Windowing, distributed messaging, and low-latency computation support real time applications."
+  },
+  {
+    "doc_id": "D041",
+    "title": "Computer Networks and TCP IP",
+    "abstract": "Computer networks use the TCP IP protocol suite to deliver packets. Routing, addressing, and transport protocols enable end-to-end communication."
+  },
+  {
+    "doc_id": "D042",
+    "title": "Software Defined Networking",
+    "abstract": "Software defined networking separates the control plane from the data plane. Programmable controllers manage network paths and traffic policies."
+  },
+  {
+    "doc_id": "D043",
+    "title": "Wireless Sensor Networks",
+    "abstract": "Wireless sensor networks connect low-power devices that collect environmental measurements. Routing and energy-aware communication extend network lifetime."
+  },
+  {
+    "doc_id": "D044",
+    "title": "Network Traffic Classification",
+    "abstract": "Network traffic classification uses packet metadata and machine learning to identify application flows. Accurate classification supports monitoring and quality of service."
+  },
+  {
+    "doc_id": "D045",
+    "title": "Cloud Computing and Network Security",
+    "abstract": "Cloud computing delivers shared infrastructure over networks. Encryption, identity management, and network security controls protect cloud workloads."
+  },
+  {
+    "doc_id": "D046",
+    "title": "Internet of Things Security",
+    "abstract": "Internet of Things devices face risks from weak authentication and insecure communication. Device updates and network segmentation improve security."
+  },
+  {
+    "doc_id": "D047",
+    "title": "Natural Language Processing and Tokenization",
+    "abstract": "Natural language processing begins with text normalization and tokenization. Stopword removal and stemming transform text into terms suitable for search indexes."
+  },
+  {
+    "doc_id": "D048",
+    "title": "Sentiment Analysis of Research Feedback",
+    "abstract": "Sentiment analysis uses natural language processing to classify opinions in text. Lexical features and machine learning models identify positive and negative feedback."
+  },
+  {
+    "doc_id": "D049",
+    "title": "Named Entity Recognition",
+    "abstract": "Named entity recognition identifies people, places, organizations, and technical entities in text. NLP pipelines use contextual models to extract structured information."
+  },
+  {
+    "doc_id": "D050",
+    "title": "Question Answering with Retrieved Evidence",
+    "abstract": "Question answering systems retrieve relevant documents before generating an answer. Information retrieval, passage ranking, and language understanding connect questions with evidence."
+  }
+]

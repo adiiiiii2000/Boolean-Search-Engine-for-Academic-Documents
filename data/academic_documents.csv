@@ -1,0 +1,51 @@
+doc_id,title,abstract
+D001,Boolean Retrieval for Academic Search,"This study presents Boolean retrieval for academic search. An inverted index stores terms and document postings, allowing AND, OR, and NOT queries over research abstracts."
+D002,Efficient Inverted Index Construction,"The paper examines inverted index construction for large text collections. Tokenization, sorted postings, and merge algorithms reduce query processing cost in information retrieval."
+D003,Ranked Retrieval with TF IDF,A ranked information retrieval model uses term frequency and inverse document frequency to score documents. The approach compares lexical relevance across academic search results.
+D004,Web Search and Link Analysis,"Web search combines text retrieval with link analysis. Crawlers collect web documents, an index supports keyword queries, and ranking methods order relevant pages."
+D005,Evaluating Search with Precision and Recall,"This work evaluates information retrieval systems using precision, recall, and F measure. Manually judged relevant documents provide a reference for measuring retrieval quality."
+D006,Natural Language Processing for Search,"Natural language processing improves search by normalizing text, removing stopwords, tokenizing terms, and applying stemming before index construction."
+D007,Query Expansion for Academic Retrieval,Query expansion adds related terms to an information retrieval query. Synonyms and domain vocabulary can improve recall while preserving useful precision.
+D008,Semantic Search Using Word Embeddings,Semantic search represents words and documents with embeddings. Similarity between vector representations helps retrieve conceptually related academic documents.
+D009,Passage Retrieval in Question Answering,Passage retrieval identifies text segments that answer natural language questions. Candidate passages are indexed and ranked before a question answering model reads them.
+D010,Distributed Search Indexes,"Distributed information retrieval partitions an index across servers. Sharding, replication, and merge operations support scalable search over large document collections."
+D011,Supervised Machine Learning Fundamentals,Supervised machine learning trains a model from labeled examples. Classification and regression algorithms learn patterns that predict labels or numeric outcomes.
+D012,Neural Networks for Image Classification,A neural network learns image features through layers and backpropagation. Convolutional models classify images and are evaluated with accuracy and confusion matrices.
+D013,Deep Learning for Text Classification,Deep learning models classify text using neural representations. Recurrent networks and transformers learn contextual features from labeled text collections.
+D014,Unsupervised Clustering of Documents,Document clustering groups unlabeled text by similarity. Vector representations and clustering algorithms reveal themes in research collections without class labels.
+D015,Model Evaluation and Cross Validation,"Machine learning evaluation uses training and test data, cross validation, precision, recall, and F1 score to estimate generalization performance."
+D016,Feature Selection for Learning Systems,Feature selection removes irrelevant variables before model training. Selecting informative features can reduce overfitting and improve classification efficiency.
+D017,Random Forest Prediction,Random forest combines decision trees trained on sampled data. Ensemble voting improves robustness for classification tasks in applied machine learning.
+D018,Support Vector Machines for Text,Support vector machines classify high-dimensional text features. A separating hyperplane and margin optimization are useful for document categorization.
+D019,Reinforcement Learning for Robotics,Reinforcement learning trains an agent through rewards and actions. Policy learning helps a robot adapt its behavior in a changing environment.
+D020,Explainable Artificial Intelligence,Explainable artificial intelligence (AI) provides interpretable reasons for model predictions. Feature importance and local explanations support trustworthy machine learning.
+D021,Network Intrusion Detection,"Network intrusion detection monitors traffic for malicious activity. A detection system uses packet features, signatures, and anomaly analysis to identify attacks."
+D022,Cyber Security Risk Assessment,"Cyber security risk assessment identifies threats, vulnerabilities, and potential impact. Security controls and risk treatment plans reduce organizational exposure."
+D023,Cryptography and Secure Communication,"Cryptography protects data confidentiality and integrity. Encryption, hashing, and digital signatures secure communication across untrusted networks."
+D024,Malware Analysis and Detection,Malware analysis studies malicious software behavior. Static signatures and dynamic execution traces help cyber security analysts detect malware.
+D025,Firewall Policy Management,"A network firewall filters traffic using access control rules. Policy review, logging, and rule ordering help prevent unauthorized connections."
+D026,Phishing Detection with Machine Learning,"Phishing detection applies artificial intelligence (AI) and machine learning to email text, URLs, and sender features. Classification models identify suspicious messages and reduce cyber security risk."
+D027,Security Information and Event Management,Security information and event management aggregates logs from endpoints and networks. Correlation rules help analysts investigate incidents and detect threats.
+D028,Intrusion Prevention in Cloud Networks,"Cloud intrusion prevention combines network monitoring, access policies, and automated response to block suspicious traffic in virtual environments."
+D029,Digital Forensics and Incident Response,"Digital forensics preserves evidence from devices and network logs. Incident response teams investigate attacks, reconstruct events, and document findings."
+D030,Authentication and Access Control,Authentication verifies user identity while access control determines permitted actions. Multi-factor authentication and least privilege protect information systems.
+D031,Relational Database Normalization,"Relational database normalization organizes tables to reduce redundancy. Functional dependencies guide decomposition into first, second, and third normal forms."
+D032,SQL Query Optimization,"Database query optimization selects efficient execution plans. Index selection, join ordering, and cost estimation improve SQL query performance."
+D033,NoSQL Databases for Big Data,"NoSQL databases support flexible schemas and distributed storage. Key-value, document, column-family, and graph models serve different data workloads. Some distributed data platforms integrate blockchain records."
+D034,Database Transactions and ACID,"Database transactions follow atomicity, consistency, isolation, and durability. Concurrency control and recovery preserve reliable data updates."
+D035,Graph Databases and Relationship Search,Graph databases represent entities and relationships as nodes and edges. Traversal queries retrieve connected data for recommendation and knowledge discovery. Graph structures can also model blockchain transaction relationships.
+D036,Data Warehousing and OLAP,A data warehouse integrates historical data for analysis. Online analytical processing supports multidimensional queries and business intelligence reporting.
+D037,Database Indexing Structures,Database indexes use B-trees and hash structures to accelerate record lookup. Index maintenance affects storage use and query performance.
+D038,Distributed Database Replication,Distributed databases replicate data across nodes for availability. Consistency protocols and conflict handling coordinate concurrent updates. Blockchain systems also use replicated ledgers across participating nodes.
+D039,Privacy Preserving Data Management,"Privacy preserving databases limit disclosure through access policies, anonymization, and encryption. Secure data management balances utility and confidentiality."
+D040,Stream Processing for Real Time Data,"Stream processing systems analyze continuous events. Windowing, distributed messaging, and low-latency computation support real time applications."
+D041,Computer Networks and TCP IP,"Computer networks use the TCP IP protocol suite to deliver packets. Routing, addressing, and transport protocols enable end-to-end communication."
+D042,Software Defined Networking,Software defined networking separates the control plane from the data plane. Programmable controllers manage network paths and traffic policies.
+D043,Wireless Sensor Networks,Wireless sensor networks connect low-power devices that collect environmental measurements. Routing and energy-aware communication extend network lifetime.
+D044,Network Traffic Classification,Network traffic classification uses packet metadata and machine learning to identify application flows. Accurate classification supports monitoring and quality of service.
+D045,Cloud Computing and Network Security,"Cloud computing delivers shared infrastructure over networks. Encryption, identity management, and network security controls protect cloud workloads."
+D046,Internet of Things Security,Internet of Things devices face risks from weak authentication and insecure communication. Device updates and network segmentation improve security.
+D047,Natural Language Processing and Tokenization,Natural language processing begins with text normalization and tokenization. Stopword removal and stemming transform text into terms suitable for search indexes.
+D048,Sentiment Analysis of Research Feedback,Sentiment analysis uses natural language processing to classify opinions in text. Lexical features and machine learning models identify positive and negative feedback.
+D049,Named Entity Recognition,"Named entity recognition identifies people, places, organizations, and technical entities in text. NLP pipelines use contextual models to extract structured information."
+D050,Question Answering with Retrieved Evidence,"Question answering systems retrieve relevant documents before generating an answer. Information retrieval, passage ranking, and language understanding connect questions with evidence."
